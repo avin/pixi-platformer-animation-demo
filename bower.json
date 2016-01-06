@@ -1,0 +1,21 @@
+{
+  "name": "metroid",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Avin Grape <carcinogen75@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "~3.0.9"
+  }
+}
